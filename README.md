@@ -1,3 +1,4 @@
+
 # Shoekart
 
 Welcome to Shoekart – where style meets comfort! Shoekart is an e-commerce platform dedicated to buying shoes, built on the MERN (MongoDB, Express.js, React.js, Node.js) stack. Shoekart not only provides a user-friendly interface for customers to browse and purchase shoes but also includes an admin section for managing products, orders, and users. Additionally, it features a secure payment section powered by Stripe.
@@ -121,4 +122,6 @@ Follow these steps to set up Shoekart on your local machine:
 
 ## Authors
 
-Made with ❤️ by **[Sumil Suthar](https://sumilsuthar.me/)**
+Made with ❤️ by **Yashwanth Gowda**
+=======
+
