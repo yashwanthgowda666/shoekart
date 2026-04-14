@@ -37,23 +37,6 @@ Welcome to Shoekart – where style meets comfort! Shoekart is an e-commerce pla
 - **Axios**: Promise-based HTTP client for making AJAX requests from the frontend to the backend.
 - **Stripe**: Payment processing platform for securely accepting payments online.
 
-## Demo
-
-Explore the project: [Shoekart](https://shoekart197.vercel.app)
-
-To experience Shoekart as a demo user, navigate to [User Login](https://shoekart197.vercel.app/login) and use the following credentials:
-
-```plaintext
-Username: user@gmail.com
-Password: password
-```
-
-You can access the admin section by navigating to [Admin Login](https://shoekart197.vercel.app/adminlogin) and using the following credentials:
-
-```plaintext
-Username: admin@gmail.com
-Password: password
-```
 
 ## Installation
 
